@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name": "Camisa",
+        "price": 100,
+        "discount": 30,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "id": 2,
+        "name": "Pantalón",
+        "price": 150,
+        "discount": 25,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "id": 3,
+        "name": "Sudadera",
+        "price": 200,
+        "discount": 35,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "id": 4,
+        "name": "Correa hombre",
+        "price": 100,
+        "discount": 35,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "id": 5,
+        "name": "Correa mujer",
+        "price": 100,
+        "discount": 32,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "id": 6,
+        "name": "Chaqueta hombre",
+        "price": 300,
+        "discount": 35,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "id": 7,
+        "name": "Chaqueta mujer",
+        "price": 300,
+        "discount": 33,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "id": 8,
+        "name": "Chaqueta niño",
+        "price": 250,
+        "discount": 35,
+        "url": "https://picsum.photos/180"
+    }
+    
+]
